@@ -1,0 +1,78 @@
+body{
+    flex-wrap: wrap;
+}
+.d1{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(54, 175, 159);
+    text-align: center;
+    flex-wrap: wrap;
+}
+a{
+    color: white;
+    text-decoration: none; 
+}
+a:hover{
+    text-decoration: underline;
+}
+img{
+    height: 40px;
+}
+.col{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(114, 114, 114);
+    left: 200px;
+    bottom: 1px;
+}
+.row{
+    position: relative;
+}
+.icon{
+    margin-top: 16px;
+    color: rgb(54, 175, 159);
+}
+.c2{
+    margin-left: 175px;
+}
+.c3{
+    margin-left: 350px;
+}
+.c4{
+    margin-left: 450px;
+}
+.free{
+    height: 50px;
+    width: 180px;
+    background-color: rgb(54, 175, 159);
+    color: white;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+.clip{
+    margin-top: 14px;
+    margin-left: 4px;
+
+}
+.free2{
+    text-align: center;
+    margin-top: -1px;
+} 
+.search{
+    height: 46px;
+    width: 320px;
+    border: solid 1px rgb(205, 205, 205) ;
+    border-radius: 5px;
+}
+.search1{
+    margin-top: -4px;
+    margin-left: 40px;
+} 
+.srch{
+    margin-top: 45px;
+    margin-left: 8px;
+    color: rgb(54, 175, 159);
+}

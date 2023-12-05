@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,300&family=Dancing+Script&family=Ephesis&family=Noto+Sans+Mandaic&family=Oswald:wght@200&family=Roboto+Condensed:wght@300&family=Teko:wght@300&display=swap');
+.d1{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(54, 175, 159);
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none; 
+}
+a:hover{
+    text-decoration: underline;
+}
+img{
+    height: 40px;
+}
+.col{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(114, 114, 114);
+    left: 200px;
+    bottom: 1px;
+}
+.row{
+    position: relative;
+}
+.icon{
+    margin-top: 16px;
+    color: rgb(54, 175, 159);
+}
+.c2{
+    margin-left: 175px;
+}
+.c3{
+    margin-left: 350px;
+}
+.c4{
+    margin-left: 450px;
+}
+
+.free{
+    height: 50px;
+    width: 180px;
+    background-color: rgb(54, 175, 159);
+    color: white;
+    padding-left: 5px;
+    border-radius: 5px;
+    
+}
+.free2{
+    text-align: center;
+    margin-top: -34px;
+} 
+.clip{
+    margin-top: 14px;
+    margin-left: 4px;
+}
+.search{
+    height: 46px;
+    width: 320px;
+    border: solid 1px rgb(205, 205, 205) ;
+    border-radius: 5px;
+}
+.search1{
+    margin-top: -34px;
+    margin-left: 40px;
+    
+} 
+p:hover{
+    color: white;
+}
+.srch{
+    margin-top: 14px;
+    margin-left: 8px;
+    color: rgb(54, 175, 159);
+}
+.shopping{
+    margin-left: 150px;
+    color: rgb(54, 175, 159);
+    margin-bottom: 13px;
+}
+.user1{
+    margin-left: 200px;
+    color: rgb(54, 175, 159);
+    margin-bottom: -35px;
+}
+.user2{
+    margin-left: 225px;
+}
+.d2{
+    height: 500px;
+    width: 756%;
+    border: 2px solid black;
+    margin-left: -663px;
+    margin-top: 25px;
+    background-image: url('./images/flatcashback.jpg');
+}
+.d3{
+    height: 600px;
+    width: 745%;
+    /* border: 2px solid black; */
+    margin-left: -660px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.col1{
+    height: 500px;
+    width: 300px;
+    border: 2px solid black;
+}
+.j{
+    height: 250px;
+    width: 100%;
+}
+#p1{
+    color: black;
+    padding-left: 5px;
+}
+#p2{
+    color: rgb(54, 175, 159);
+    padding-left: 5px;
+}
+#p3{
+    color: black;
+    padding-left: 5px;
+}
+#p4{
+    color: black;
+    padding-left: 5px;
+}
+#i1{
+    color: gold;
+}
+#i2{
+    color: rgb(54, 175, 159);
+}
+.add{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(54, 175, 159);
+    margin-top: 42px;
+}
+.add1{
+    text-align: center;
+    padding: 15px;
+}
